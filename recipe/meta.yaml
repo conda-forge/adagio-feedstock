@@ -34,7 +34,7 @@ about:
   home: https://github.com/fugue-project/adagio
   license: Apache-2.0
   license_file: LICENSE
-  summary: A Dag IO framework for Fugue projects
+  summary: A Dag IO framework for Fugue projects.
 
 extra:
   recipe-maintainers:
