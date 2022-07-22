@@ -7,7 +7,7 @@ Package license: Apache-2.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/adagio-feedstock/blob/main/LICENSE.txt)
 
-Summary: A Dag IO framework for Fugue projects
+Summary: A Dag IO framework for Fugue projects.
 
 Current build status
 ====================
@@ -143,7 +143,9 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@charlesbluca](https://github.com/charlesbluca/)
 * [@goodwanghan](https://github.com/goodwanghan/)
 * [@kvnkho](https://github.com/kvnkho/)
 * [@rdmolony](https://github.com/rdmolony/)
+* [@thewchan](https://github.com/thewchan/)
 
